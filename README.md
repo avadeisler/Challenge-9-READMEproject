@@ -24,6 +24,6 @@ THEN I am taken to the corresponding section of the README
 
 Here is the link to the github site.
 
-https://github.com/avadeisler/Challenge-9-READMEproject.gitLinks to an external site.
+https://github.com/avadeisler/READMEgeneratorproject.git to an external site.
 
 I will return to this project to add a video guide at a later date.
